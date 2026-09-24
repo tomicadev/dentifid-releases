@@ -11,10 +11,10 @@ Najnovije izdanje: **[dentifid.apk](https://github.com/tomicadev/dentifid-releas
 
 | | |
 |---|---|
-| Verzija | 1.0.1 |
+| Verzija | 1.0.2 |
 | Android | 7.0 (API 24) i noviji |
-| Veličina | 62,9 MB |
-| SHA-256 | `879a6f688db8f11e3741e7f05a865894e3913398ead967e9f349b31bd92ef791` |
+| Veličina | 62,8 MB |
+| SHA-256 | `f575298d439680a50a895bb5159ca6834d120c38107046960b4acc6ae89dba7e` |
 
 ## Instalacija
 
